@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ttext';
+    src: url('fonts/Lakesight_PersonalUseOnly.ttf') format('truetype');
+}
+
+p {
+    font-family: 'ttext';
+}
